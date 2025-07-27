@@ -1,5 +1,5 @@
 ## Brazilian crops in 2023
-### Objective: Characterize Brazilian agricultural production by state.
+### Objective: Characterize Brazilian crop production by state.
 #### Production: Ana Larissa Ribeiro de Freitas and Fábio Furlan Gama
 
 #
