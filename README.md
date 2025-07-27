@@ -1,4 +1,4 @@
-## Brazilian crop data in 2023
+## Brazilian crops in 2023
 ### Objective: Characterize Brazilian agricultural production by state.
 #### Production: Ana Larissa Ribeiro de Freitas and Fábio Furlan Gama
 
