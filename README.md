@@ -1,10 +1,10 @@
-## Brazilian crop data
+## Brazilian crop data in 2023
 ### Objective: Characterize Brazilian agricultural production by state.
 #### Production: Ana Larissa Ribeiro de Freitas and Fábio Furlan Gama
 
 #
 
-## Data on temporary and perennial crop production were obtained and organized to calculate the harvested area (km²) and production (t).
+## Data on temporary and perennial crop production were obtained and organized to calculate the harvested area (km²) and production (t) in 2023.
 
 
 ##### Source: Municipal agricultural research (PAM) - IBGE 
