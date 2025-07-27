@@ -2,7 +2,8 @@
 ## Objective: Characterize Brazilian agricultural production by state.
 ### Production: Ana Larissa Ribeiro de Freitas and Fábio Furlan Gama
 
-Data on temporary perennial agricultural production were obtained and organized to calculate the harvested area (km²) and production (t).
+
+Data on temporary and perennial crop production were obtained and organized to calculate the harvested area (km²) and production (t).
 
 
 #### Source: Municipal agricultural research (PAM) - IBGE 
