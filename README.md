@@ -9,6 +9,6 @@
 
 ##### Source: Municipal agricultural research (PAM) - IBGE 
 
-Perennial crops: https://cidades.ibge.gov.br/brasil/al/pesquisa/15/11863
+Perennial crops: https://cidades.ibge.gov.br/brasil/pesquisa/15/11863
 
 Temporary crops: https://cidades.ibge.gov.br/brasil/pesquisa/14/10193
